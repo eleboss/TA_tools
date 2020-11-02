@@ -3,4 +3,7 @@ Q1a:30
 Q1b:30
 Q2:40
 No report: 5 deduction 
-No input/output: 2.5 deduction
+No auto input/output or input instruction: 2 deduction
+serious bug: 10 deduction
+small bug: 5 deduction
+tiny bug: 2 deduction

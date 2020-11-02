@@ -1,0 +1,76 @@
+1.Bibi Khasiba_13325266_assignsubmission_file_
+-5
+-5
+-5 no report
+2.Cheung Chun Yik_13325245_assignsubmission_file_
+-5 no report 
+-5 no report
+-40 no code
+3.Ching Nok Yee_13325231_assignsubmission_file_
+-2 no in out 
+-2
+-0
+4.Chui Cheuk Yin_13325251_assignsubmission_file_
+-2 -3 no input output no report
+-2 -3
+-3
+5.Hu Xunrui_13325208_assignsubmission_file_
+-2 no input -5 no report
+-2 -5
+-5
+6.Kong Xiangyi_13325179_assignsubmission_file_
+-2 tiny bug
+-2 tiny bug
+-0
+7.Kwon Ayoung_13325168_assignsubmission_file_
+-0 
+-0 
+-0
+8.Lam Yun_13325212_assignsubmission_file_
+-0
+-0
+-0
+9.Lee Min Woo_13325220_assignsubmission_file_
+-0
+-0
+-0
+10.Leung Chin Hei Leonardo_13325230_assignsubmission_file_
+-30 no IDS
+-5 no report -2 no define for input out 
+-5 no report
+11.Li Zonglin_13325195_assignsubmission_file_
+-0
+-0
+-2 result is strange
+12.Low Kathleen Zi Yi_13325169_assignsubmission_file_
+-2 in out
+-2
+0
+13.Ma Heming_13325178_assignsubmission_file_
+-2
+-2 no in out
+-0
+14.Wong Chun Pong_13325189_assignsubmission_file_
+-5 no report 
+-30 no code
+-40 no code
+15.Wu Kit Wah_13325171_assignsubmission_file_
+-2
+-0
+-40
+16.Xing Jiaqi_13325234_assignsubmission_file_
+-2 input bug
+-30 no code
+-? java 
+17Yau Chak Hei_13325204_assignsubmission_file_
+-0
+-0
+-0
+18.Yip Wai Sheung_13325203_assignsubmission_file_
+-2 bugs
+-2 bugs
+-10 unable to run
+19.Yu Cien_13325256_assignsubmission_file_
+-0
+-0
+-0
