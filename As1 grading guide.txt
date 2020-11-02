@@ -1,0 +1,6 @@
+100 scores
+Q1a:30
+Q1b:30
+Q2:40
+No report: 5 deduction 
+No input/output: 2.5 deduction
