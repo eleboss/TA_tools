@@ -180,7 +180,7 @@ class Board:
                 if piece:
                     side = piece.side
                     color = 'blue' if side == WHITE else 'red'
-                    pieceRep = colored(piece.stringRep, color)
+                    pieceRep = piece.stringRep
                 else:
                     pieceRep = '·'
                 stringRep += pieceRep + ' '
@@ -189,12 +189,12 @@ class Board:
     
     def makeUnicodeStringRep(self, pieces):
         DISPLAY_LOOKUP = {
-            "R": '♜',
-            "N": '♞',
-            "B": '♝',
-            "K": '♚',	
-            "Q": '♛',
-            "P": '♟',
+            "R": "♜",
+            "N": "♞",
+            "B": "♝",
+            "K": "♚",	
+            "Q": "♛",
+            "P": "♟",
         }
 
         stringRep = ''
