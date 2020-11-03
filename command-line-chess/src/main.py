@@ -111,28 +111,28 @@ def startGame(board, playerSide, ai):
         if board.currentSide == playerSide:
             # printPointAdvantage(board)
             move = None
-            # command = input("It's your move."
-            #                 " Type '?' for options. ? ")
-            # if command.lower() == 'u':
-            #     undoLastTwoMoves(board)
-            #     continue
-            # elif command.lower() == '?':
-            #     printCommandOptions()
-            #     continue
-            # elif command.lower() == 'l':
-            #     printAllLegalMoves(board, parser)
-            #     continue
-            # elif command.lower() == 'r':
-            #     move = getRandomMove(board, parser)
-            # elif command.lower() == 'exit' or command.lower() == 'quit':
-            #     return
-            # try:
-            #     move = parser.parse(command)
-            #     print("move: ", command)
-            # except ValueError as error:
-            #     print("%s" % error)
-            #     continue
-            # move = getRandomMove(board, parser)
+            command = input("It's your move."
+                            " Type '?' for options. ? ")
+            if command.lower() == 'u':
+                undoLastTwoMoves(board)
+                continue
+            elif command.lower() == '?':
+                printCommandOptions()
+                continue
+            elif command.lower() == 'l':
+                printAllLegalMoves(board, parser)
+                continue
+            elif command.lower() == 'r':
+                move = getRandomMove(board, parser)
+            elif command.lower() == 'exit' or command.lower() == 'quit':
+                return
+            try:
+                move = parser.parse(command)
+                print("move: ", command)
+            except ValueError as error:
+                print("%s" % error)
+                continue
+            move = getRandomMove(board, parser)
 
             while True:
                 previous_count = count

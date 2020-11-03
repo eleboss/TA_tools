@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['main.py'],
-             pathex=['/home/eleboss/Documents/command-line-chess/src'],
+             pathex=['C:\\Users\\94304\\Desktop\\TA_tools\\command-line-chess\\src'],
              binaries=[],
              datas=[],
              hiddenimports=[],
